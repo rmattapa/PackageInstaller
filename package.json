@@ -1,0 +1,26 @@
+{
+  "name": "package_installer",
+  "version": "1.0.0",
+  "description": "Determine the order of dependencies which needs to be installed first.",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "concurrent \"npm run lite\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmattapa/PackageInstaller.git"
+  },
+  "author": "Rajesh Mattaparthi",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "concurrently": "^1.0.0",
+    "jasmine-core": "^2.4.1",
+    "lite-server": "^2.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/rmattapa/PackageInstaller/issues"
+  },
+  "homepage": "https://github.com/rmattapa/PackageInstaller#readme"
+}
