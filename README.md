@@ -10,6 +10,6 @@ Given an array of strings defining packages and their dependencies.Each string c
 Run commands in the following order:
 npm install
 npm start
-
-All the test cases are involved in the tests/packageTestInstaller.js including the test cases which are mentioned in the document and some additional test cases. So change the test cases in test file in order to perform more testing and results are served in localhost page.  
 ```
+All the test cases are involved in the tests/packageTestInstaller.js including the test cases which are mentioned in the document and some additional test cases. So change the test cases in test file in order to perform more testing and results are served in localhost page.  
+
